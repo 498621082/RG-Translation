@@ -1,0 +1,11 @@
+//************************************************************
+// Clothes -> Socks
+//************************************************************
+
+レッグバンデージ=Leg Bandages
+ルームソックス=Room Socks
+ミニリボンソックス=Mini Ribbon Socks
+マリンレジャーソックス=Marine Leisure Socks
+スチームパンクソックス=Steampunk Socks
+クイーンソックス=Queen Socks
+レッグリボン=Leg Ribbon

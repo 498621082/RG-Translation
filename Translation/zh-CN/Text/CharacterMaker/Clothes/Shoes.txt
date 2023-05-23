@@ -1,0 +1,17 @@
+//************************************************************
+// Clothes -> Shoes
+//************************************************************
+
+襟付きパンプス=Collared Pumps
+アイドルローファー=Idol Loafers
+ベルトエアシューズ=Belt Air Shoes
+ダッドスニーカー=Dad Sneakers
+スクエアパンプス=Square Pumps
+厚底ローファ=Chunk Loafers
+マリンレジャーサンダル=Marine Leisure Sandals
+スチームパンクブーツ=Steampunk Boots
+
+パンクローファー=Punk Loafers
+クイーンシューズ=Queen Shoes
+黄金サンダル=Golden Sandals
+レッドフードブーツ=Red Hood Boots

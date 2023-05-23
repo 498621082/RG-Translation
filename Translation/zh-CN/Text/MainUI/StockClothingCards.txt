@@ -1,0 +1,35 @@
+//***********************************************************************
+// Name of Stock Clothing Cards (Coordinates)
+//***********************************************************************
+
+sr:"外着　(.+)$"=$1 Outerwear
+sr:"家着　(.+)$"=$1 Housewear
+
+外着　OL=Office Lady Outwear 
+家着　OL=Office Lady Housewear
+
+ハイレグセーラーセット=High-leg Sailor Set
+スチームパンクセット=Steampunk Set
+マリンレジャーセット=Marine Leisure Set
+ネズミセット=Mouse Set
+胸あきボンデージ=Open-Chest Bondage
+ボンデージ=Bondage
+狐巫女=Fox Shrine Maiden
+サキュバス=Succubus
+たぬき=Tanuki
+くノ一セット=Ninja Girl Set
+セクシー兵士=Sexy Soldier
+セクシー艦長=Sexy Captain
+ドラゴニックプリンセス=Dragonic Princess
+マジシャンズフリル=Magician Frills
+ビキニアーマー戦士=Bikini Armor Warrior
+犬耳セット=Dog Ear Set
+黄金セット(下着枠)=Golden Set (Underwear Frame)
+クリスマスデコレーションセット=Christmas Decoration Set
+スパイダークイーンセット=Spider Queen Set
+レッドフードセット=Red Hood Set
+黄金セット=Golden Set
+シスター=Sister
+シスターS=Sister S
+パンクコーデセット=Punk Clothing Set
+リボンラッピングセット=Ribbon Wrapping Set

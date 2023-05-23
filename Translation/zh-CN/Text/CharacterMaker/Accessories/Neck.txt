@@ -1,0 +1,13 @@
+//************************************************************
+// Accessories -> Neck
+//************************************************************
+
+社員証=Employee ID Card
+鈴付きリボン=Ribbon with Bell
+缶バッチ=Cat Badge
+リボンチョーカー=Ribbon Choker
+雫ネックレス=Drop Necklace
+
+ベルリボン=Bell Ribbon
+【FK】コート=[FK] Coat
+クリスマスマント=Christmas Cloaks

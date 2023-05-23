@@ -1,0 +1,24 @@
+//************************************************************
+// Clothes -> Tops
+//************************************************************
+
+ブレザー（パーカー）=Blazer with Hoodie
+デニムジャケット=Denim Jacket
+アイドルワンピース=Idol Onepiece
+ディーラートップス=Dealer Tops
+トレーナー=Sweat Shirt
+着崩しセーター=Loose Sweater
+ハイレグセーラー=High-leg Sailor
+パジャマトップスA=Pajamas Tops A
+パジャマトップスB=Pajamas Tops B
+ニットソー=Knit Sew
+ネグリジェ=Negligee
+マリンレジャートップス=Marine Leisure Tops
+スチームパンクトップス=Steampunk Tops
+レッドフードトップスA=Red Hood Tops A
+レッドフードトップスB=Red Hood Tops B
+クイーンドレス=Queen Dress
+黄金トップス=Golden Tops
+ボディリボン=Body Ribbon
+パンクオフショルダー=Punk off-the-shoulder
+ムートンコート=Mouton Coats

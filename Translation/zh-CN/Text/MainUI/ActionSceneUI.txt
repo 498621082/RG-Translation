@@ -1,0 +1,104 @@
+//***********************************************************************
+// ActionScene (Room UI)
+// Options and dialogues are in the folder Action_Lists. Translate then
+// in translation.txt, and then comment the respective line 
+// in zz_MachineTranslation.txt
+//***********************************************************************
+#set exe RoomGirl
+
+//------------------------------------------------------------
+// Generic (Scope Level -1)
+//------------------------------------------------------------
+ＯＫする=OK
+多=Full
+
+//------------------------------------------------------------
+// Left Menu (Scope Level -1)
+//------------------------------------------------------------
+倍速で再生=Increase Animation Speed
+時間を進める=Advance Time
+
+//------------------------------------------------------------
+// Tips (Scope Level -1)
+//------------------------------------------------------------
+/ 決定= Decision
+/ スクロール= Scroll
+/スクロール=Scroll
+/決定=Decision
+/キャンセル=Cancel
+/戻る=Return
+/ボイス再生=Voice playback
+
+//------------------------------------------------------------
+// Unsorted (Scope Level -1)
+//------------------------------------------------------------
+真面目=Solemn
+あれは私の声ですよ。=That's my voice.
+ご、ごめんなさい……よく分からないです……=I'm sorry...I don't understand...
+見捨てないでよ、キミがいないと生きていけないんだからっ=Don't abandon me. I can't live without you.
+
+//------------------------------------------------------------
+// Interaction Buttons (Scope Level -1)
+//------------------------------------------------------------
+断る=Refuse
+また今度=Maybe next time
+ついていく=Follow
+怒る=Get angry
+いやがる=Show dislike
+笑う=Smile
+揺さぶりをかける=Shake it up
+警告する=Warn
+不正を報告する=Report wrongdoings
+無視=Ignore
+軽蔑する=Despise
+
+#set level 6
+//------------------------------------------------------------
+// Regex
+//------------------------------------------------------------
+//Call a person
+sr:"^(.+)を呼ぶ$"=Call $1
+sr:"^(.+)に声をかける$"=Speak with $1
+
+//------------------------------------------------------------
+// Character Top Menu
+//------------------------------------------------------------
+// Status
+ステータス▼=Status ▼
+現在の性質=Current Disposition
+成績=Expertise
+趣味=Hobby
+社交=Social
+恋愛=Romance
+色気=Appeal
+H慣れ=H-Experience
+
+スタミナ切れ=Out Of Stamina
+疲労=Tired
+漏れそう=Needs to pee
+睡眠=Sleeping
+
+// Friendship
+交友関係▼=Friendship ▼
+間柄=Relation
+他人=Stranger
+友人=Friend
+悪友=Bad Company
+恋人=Lover
+性友=Sex Friend
+愛人=Paramour
+
+眼中にない=Don't care
+興味ない=Not interested
+いやではない=No strong feelings
+ついつい見てしまう=Can't stop glancing
+興味あり=Interested
+注目している=Charmed
+目が離せない=Can't look away
+ゾッコン=In love
+あなたしか見れない=Madly in love
+
+//------------------------------------------------------------
+// Right Menu
+//------------------------------------------------------------
+マップ中のキャラクター=Characters in the map
